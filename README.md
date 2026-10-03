@@ -1,6 +1,10 @@
 # Lista 4 - Machine Learning
 
-Este repositorio contiene la solución a la cuarta lista de ejercicios. 
+Este repositorio contiene la solución a la cuarta lista de ejercicios.
+
+Integrantes:
+- Andrea Medina
+- Tatiana Casallas
 
 ## Estructura
 - `data/`: Contiene los archivos CSV usados en los experimentos.
