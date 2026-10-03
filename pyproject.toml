@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lista4"
+version = "0.1.0"
+description = "Solución a la lista 4 de Machine Learning"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "jupyter"
+]
+
+[tool.setuptools]
+packages = ["src"]
